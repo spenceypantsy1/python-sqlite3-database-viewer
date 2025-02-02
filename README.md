@@ -19,6 +19,3 @@ This notebook helps you **view your SQLite database**, its tables, and assign de
 | `add_tables_to_metadata()` | Inserts retrieved tables into the metadata table if they don’t already exist. |
 | `update_table_description('table_name', 'new_description')` | Updates the description of a specific table. Replace `'table_name'` and `'new_description'` accordingly. |
 | `view_tables_with_descriptions()` | Displays all tables along with their descriptions. |
-
-
-📞 Contact github.com/spenceypantsy1 or theogspencerlin@gmail.com if broken 
