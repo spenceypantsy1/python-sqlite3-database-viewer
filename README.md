@@ -7,6 +7,7 @@ For me to come back to this when I do more research and projects and inevitably 
 This notebook helps you **view your SQLite database**, its tables, and assign descriptions so you can keep track of them easily. **Very fly like a G6!**
 
 🔹 **Instructions:**  
+- Open the notebook in the folder with your database.
 - **Modify** the variable **`db`** in **line 3** of the following cell to specify your database.  
 - Run the first code cell. 
 - Run the following cells below as needed.   
